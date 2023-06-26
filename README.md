@@ -1,6 +1,6 @@
 ### Hello there! I'm Kleiton 👋
 
-- 🔭 I am currently working as a Quality Assurance
+- 🔭 I am currently working as a Quality Assurance Analist
 - 🌱 Take a look at my <Strong><i>Front-end</i></Strong> and <Strong><i>Back-end</i></Strong> <i>portfolio</i> 😊
 - 🤖 Front-end: <Strong> Javascript, CSS3, HTML5, Typescript, React, React Native, NextJS, Bootstrap </Strong>
 - 👺 Back-end: <Strong>Java, Java mobile, SPRINGBOOT e Python </Strong>
