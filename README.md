@@ -18,15 +18,15 @@
 ---
 
 #### 👺 Back-End Development  
-**Languages**: Java 11 (SE/EE), Python (3.x)  
-**Frameworks**: Spring Boot (MVC, Security, Data JPA), Flask/Django (Python)  
+**Languages**: Java 11 (SE/EE), Python (3.x)
+**Frameworks**: Spring Boot (MVC, Security, Data JPA)
 **Concepts**: RESTful APIs, Microservices, OAuth2, JWT, Design Patterns  
 
 ---
 
 #### 👾 Database & Data Management  
 **Relational Databases**: SQL Server, Oracle SQL, PostgreSQL (Query Optimization, Indexing)  
-**Tools**: PL/SQL, pgAdmin, Liquibase (Migrations)  
+**Tools**: PL/SQL, pgAdmin
 **Practices**: ACID Compliance, Data Modeling, Normalization  
 
 ---
@@ -56,9 +56,9 @@
 ---
 
 ### 🚀 Key Strengths  
-- **Full-Stack Integration**: Bridging front-end and back-end systems with REST/GraphQL APIs.  
+- **Full-Stack Integration**: Bridging front-end and back-end systems. 
 - **DevOps Culture**: Emphasis on observability, scalability, and Infrastructure as Code (IaC).  
-- **Agile Practices**: Scrum/Kanban, Jira/Confluence, iterative delivery.
+- **Agile Practices**: Scrum/Kanban, iterative delivery.
 
 
 <a href="https://github.com/kleitong1"> <br>
